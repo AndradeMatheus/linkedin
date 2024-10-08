@@ -1,0 +1,6 @@
+• Desenvolvimento de SSO;
+• Atendimento de chamados;
+• Aplicação e acompanhamento de atualizações de sistemas para clientes;
+• Manutenção de sistema legado;
+• Utilização e manutenção do Azure DevOps;
+• Abordagem de metodologia agile.

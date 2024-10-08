@@ -1,0 +1,11 @@
+• Orientação à equipe e divisão de tarefas;
+• Definição de escopo extensiva com clientes;
+• Desenvolvimento de hardware e software embarcados:
+⠀⠀⠀ ◦ Simulação de equipamentos via software;
+⠀⠀⠀ ◦ Pesquisa e desenvolvimento de circuitos elétricos;
+⠀⠀⠀ ◦ Criação de desenhos de placas standalone internamente;
+⠀⠀⠀ ◦ Produção de equipamentos médicos auxiliares;
+⠀⠀⠀ ◦ Produção de equipamentos para monitoramento de gases.
+• Redução de custos de produção;
+• Pesquisa e desenvolvimento para aumento de performance;
+• Desenvolvimento de embarcados em massa.
