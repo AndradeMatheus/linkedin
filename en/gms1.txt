@@ -1,0 +1,11 @@
+• Team guidance and task division;
+• Extensive scope definition with clients;
+• Development of embedded hardware and software:
+⠀⠀⠀ ◦ Simulation of equipment via software;
+⠀⠀⠀ ◦ Research and development of electrical circuits;
+⠀⠀⠀ ◦ Creation of standalone board designs internally;
+⠀⠀⠀ ◦ Production of auxiliary medical equipment;
+⠀⠀⠀ ◦ Production of equipment for gas monitoring.
+• Reduction of production costs;
+• Research and development for performance improvement;
+• Mass development of embedded systems.

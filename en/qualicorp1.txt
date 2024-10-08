@@ -1,0 +1,23 @@
+• Implementation of new technologies;
+• Deployment of on-premise DB to cloud:
+⠀⠀⠀ ◦ Direct relationship with the international Neo4J team;
+⠀⠀⠀ ◦ Infrastructure decision-making;
+⠀⠀⠀ ◦ Performance improvements in queries;
+⠀⠀⠀ ◦ English Interpreter/Translator.
+• Architecture of automated event reprocessing:
+⠀⠀⠀ ◦ Error cataloging and analysis;
+⠀⠀⠀ ◦ Automatic handling;
+⠀⠀⠀ ◦ Event definition and detailing for the user.
+• Creation of internal systems:
+⠀⠀⠀ ◦ Dynamic automation of registration loads;
+⠀⠀⠀ ◦ Automated price adjustment for billing records;
+⠀⠀⠀ ◦ Process automation.
+• Implementation/Migration of legacy database and content to SAP:
+⠀⠀⠀ ◦ Organization and data architecture in Neo4J;
+⠀⠀⠀ ◦ User follow-up and usability for interfaces provided for data maintenance.
+• Automation of migration from legacy versioning system to GIT 1:1;
+• Maintenance of legacy system;
+• Modernization/Migration of legacy system;
+• Use and maintenance of Azure DevOps;
+• Agile methodology approach;
+• Meeting the needs of internal users.

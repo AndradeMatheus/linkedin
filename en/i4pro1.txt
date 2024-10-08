@@ -1,0 +1,6 @@
+• SSO Development; 
+• Service requests handling; 
+• Implementation and monitoring of system updates for clients; 
+• Legacy systems maintenance; 
+• Use and maintenance of Azure DevOps; 
+• Adoption of Agile methodology.

@@ -1,0 +1,9 @@
+• Timeline schematization and definition for Development;
+• Team guidance and task division;
+• Market research for platform and tool reachability;
+• Development of a custom and unique Knowledge Base for each client;
+• Use of LLMs as the main foundation of the platform;
+• Development of plugins and applets for FlowiseAI;
+• Portability of self-hosted systems to AWS;
+• Customization of services and extensive application of load balancing via AWS;
+• Cost and consumption projection for applications.
